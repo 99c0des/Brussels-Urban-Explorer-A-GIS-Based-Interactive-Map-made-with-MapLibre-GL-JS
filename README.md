@@ -7,7 +7,7 @@ An interactive web map for discovering parks, restaurants and bus stops across B
 
 ## Why I built this
 
-A GIS project that takes OpenStreetMap data prepared in QGIS and turns it into a complete web mapping application, using plain HTML, CSS and JavaScript with no build step or framework.
+A GIS project that takes OpenStreetMap data prepared in QGIS and turns it into a complete web mapping application, using plain HTML, CSS and JavaScript (see set for replicable codes)
 
 ## Features
 
