@@ -99,7 +99,7 @@ Everything after `#` in the URL describes the view:
 - [OpenFreeMap](https://openfreemap.org/) vector tiles for the basemaps
 - OpenStreetMap routing servers (`routing.openstreetmap.de`) for directions
 - [Nominatim](https://nominatim.org/) for online address search
-- Vanilla JavaScript, HTML and CSS, no build tools
+- Vanilla JavaScript, HTML and CSS
 - GeoJSON data prepared in QGIS from OpenStreetMap
 
 ## Data
