@@ -2,7 +2,7 @@
 
 An interactive web map for discovering parks, restaurants and bus stops across Brussels. Search by name or by what a place offers (try "pizza"), get walking, cycling and driving directions, save places into custom lists, and share places, routes and lists with a link.
 
-**[Live demo]()**
+**[Live demo](https://99c0des.github.io/Brussels-Urban-Explorer-A-GIS-Based-Interactive-Map-made-with-MapLibre-GL-JS/)**
 
 
 ## Why I built this
