@@ -45,7 +45,7 @@ const STORAGE_KEY = 'brussels-explorer.lists.v1';
 const datasets = [
     {
         id: 'parks',
-        url: '../geojson/parks.geojson',
+        url: './geojson/parks.geojson',
         layer: {
             type: 'fill',
             paint: {
@@ -56,7 +56,7 @@ const datasets = [
     },
     {
         id: 'restaurants',
-        url: '../geojson/restaurants.geojson',
+        url: './geojson/restaurants.geojson',
         layer: {
             type: 'circle',
             paint: {
@@ -69,7 +69,7 @@ const datasets = [
     },
     {
         id: 'busstops',
-        url: '../geojson/busstops.geojson',
+        url: './geojson/busstops.geojson',
         layer: {
             type: 'circle',
             paint: {
